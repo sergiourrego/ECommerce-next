@@ -244,11 +244,6 @@ Build By chainshifu Arbaa Project inspired by [Amazon] https://www.amazon.com
 
 ![image](https://user-images.githubusercontent.com/51326421/168417814-c7e859f3-6a79-48df-8560-0bb2de53bfc4.png)
 
-## Admin Add Product Page
-
-![image](https://user-images.githubusercontent.com/51326421/168417851-4396ddbd-d7cb-4d50-bb78-df36b4583c8e.png)
-
-![image](https://user-images.githubusercontent.com/51326421/168419929-81f17f43-dbbd-4d80-b7fb-2d614e88b607.png)
 
 ## Admin Update Product Page
 
