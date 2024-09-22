@@ -21,7 +21,7 @@ Building ecommerce website with React Js + Next Js + TypeScript + Node Js + Expr
 
 # Author
 
-### <a href="https://github.com/chainshifu">@chainshifu Arbaa</a>
+### <a href="https://github.com/chainshifu">@chainshifu</a>
 
 # Technologies
 
@@ -103,7 +103,7 @@ Contributions are always welcome!
 
 # Support
 
-For support, email chainshifus@gmail.com.
+For support, email chainshifu@outlook.com.
 
 # Run_Locally
 
